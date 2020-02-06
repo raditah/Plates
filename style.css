@@ -1,0 +1,66 @@
+
+
+  h1 {
+    font-weight: bold;
+
+    font-family: "GT-Pressura";
+    line-height: 10px;
+      padding: 10px 0;
+      font-size:30px;
+color: #31D2B0;
+    }
+
+    header {
+      background-color: #000127;
+  }
+    header h1 {
+      margin: 0;
+  }
+html {
+    width: 350px;
+    height: 150px;
+}
+
+input {
+    align-content: center;
+    font-family: "GT-Pressura";
+    font-size:10px;
+    width: 125px;
+    height: 20px;
+}
+input[type="text"], textarea {
+  font-size: 35px;
+
+  background-color : #ff6961; 
+
+}
+#vehicle_save {
+  display: none; /* Hidden by default */
+
+} 
+p{    font-family: "GT-Pressura";
+  font-weight: bold;
+  font-size: 17px;
+
+}
+.br { 
+  display: block; 
+  margin-bottom: 0em; 
+} 
+
+.fraude{    
+  color: #ff6961;
+  font-family: "GT-Pressura";
+  font-weight: bold;
+  font-size: 17px;
+
+}
+
+
+@font-face {
+    font-family: "GT-Pressura";
+    src: url(https://s3-eu-west-1.amazonaws.com/beat-general/fonts/gt-pressura/GT-Pressura-Mono-Regular.woff) format("truetype");
+  }
+
+  br {line-height:0px;
+    height:1px;}
